@@ -1,4 +1,4 @@
-<CENTER><HEADER>Hi I am Daniel 👋</HEADER></CENTER>
+<HEADER></CENTER><h1>Hi I am Daniel 👋</h1></CENTER></HEADER>
 <DIV>
 <br><p>About me</p>
 <p>I'm 22 years old.</p>
