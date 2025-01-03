@@ -1,6 +1,6 @@
-<HEADER style="text-position:center;">Hi I am Daniel 👋</HEADER>
+<CENTER><HEADER>Hi I am Daniel 👋</HEADER></CENTER>
 <DIV>
-<p>About me</p>
+<br><p>About me</p>
 <p>I'm 22 years old.</p>
 <p>I studied high school at cbtis 59 in the technical programming career in which I formed my programming foundations. </p>
 <p>I am a graduate of computer science from the UAEH where I specialized in intelligent computing. </p>
