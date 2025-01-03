@@ -10,3 +10,8 @@
 <h4>My experience</h4>
 <p>Until now I have not had a formal job in this field but in my professional internship I was working in a web development and digital marketing company where I learned concepts about SEO and SEM, in addition to using technologies for web development such as HTML, CSS and PHP. </p>
 </DIV>
+<DIV>
+<H4>Contact me</H4>
+<p>ddepiceno@gmail.com</p>
+</DIV>
+
