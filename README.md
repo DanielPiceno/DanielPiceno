@@ -1,4 +1,4 @@
-<HEADER>Hi I am Daniel 👋</HEADER>
+<HEADER style="text-position:center;">Hi I am Daniel 👋</HEADER>
 <DIV>
 <p>About me</p>
 <p>I'm 22 years old.</p>
